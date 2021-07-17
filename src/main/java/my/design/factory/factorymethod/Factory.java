@@ -7,7 +7,7 @@ package my.design.factory.factorymethod;
 interface Factory {
     /**
      * 用于获取对象
-     * @return
+     * @return 产品
      */
     Product getProduct();
 }

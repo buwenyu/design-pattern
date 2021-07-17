@@ -7,7 +7,7 @@ package my.design.factory.factorymethod.test;
 public class DatabaseLoggerFactory implements LoggerFactory{
     @Override
     public Logger createLogger() {
-        /**
+        /*
          * 连接数据库
          * 。。。
          * 创建数据库日志记录器对象

@@ -7,7 +7,6 @@ package my.design.factory.factorymethod;
 interface Product {
     /**
      * 通过工厂方法生产对象
-     * @return 返回要生成的对象
      */
     void factoryMethod();
 }
